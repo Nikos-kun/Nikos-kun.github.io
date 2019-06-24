@@ -19,7 +19,7 @@
 
 			// route for the pelates page
 			.when('/pelates', {
-				templateUrl: 'partials/pelates.html',
+				templateUrl: 'https://nikos-kun.github.io/SmartWare/partials/pelates.html',
 				controller: 'PelatesCtrl'
 			});
 	});
